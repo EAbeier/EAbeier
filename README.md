@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/emerson-alves-beier">Émerson Alves Beier</a> :computer:
 
 <a href="https://www.linkedin.com/in/emerson-alves-beier/">
-  <img src="https://img.icons8.com/plasticine/60/000000/linkedin.png"/>
+  <img src="https://img.icons8.com/plasticine/50/000000/linkedin.png"/>
 </a>
 
 
