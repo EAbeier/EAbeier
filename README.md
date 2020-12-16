@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://github.com/EAbeier">
-  <img src="https://img.icons8.com/dusk/30/000000/github.png"/>
+  <img src="https://img.icons8.com/bubbles/50/000000/github.png"/>
 </a>
 
 
