@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/emerson-alves-beier">Émerson Alves Beier<> :computer:
+# <a href="https://www.linkedin.com/in/emerson-alves-beier">Émerson Alves Beier</a> :computer:
 
 <a href="https://www.linkedin.com/in/emerson-alves-beier/">
   <img src="https://img.icons8.com/plasticine/100/000000/linkedin.png"/>
