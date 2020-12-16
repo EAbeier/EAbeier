@@ -8,6 +8,9 @@
 <img align="left" src="https://img.icons8.com/plasticine/40/000000/instagram-new.png"/>
 </a>
 
+<a href="https://github.com/EAbeier">
+  <img src="https://img.icons8.com/dusk/40/000000/github.png"/>
+</a>
 
 
 Here are some ideas to get you started:
