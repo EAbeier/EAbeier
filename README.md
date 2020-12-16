@@ -4,7 +4,9 @@
   <img src="https://img.icons8.com/plasticine/50/000000/linkedin.png"/>
 </a>
 
-
+<a href="https://www.instagram.com/emersonabe/">
+<img src="https://img.icons8.com/plasticine/50/000000/instagram-new.png"/>
+</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
