@@ -11,6 +11,17 @@
 <a href="https://github.com/EAbeier">
   <img src="https://img.icons8.com/material-rounded/40/000000/github.png"/>
 </a>
-
-#Sobre Mim:
+</br>
+</br>
+# Sobre Mim:
 <p>Programador persdeguidor de bugs e de cachoeiras</p>
+
+## Technologies :fire:
+- Aprendendo C#;
+- Html e CSS;
+- Aprendendo EXTjs;
+- Php - Básico
+- Java - Básico
+
+
+
