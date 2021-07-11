@@ -14,7 +14,7 @@
 </br>
 </br>
 # Sobre Mim:
-<p>Programador persdeguidor de bugs e de cachoeiras</p>
+<p>Programador BackEnd com C# e .net e FrontEnd com  EXT js.</p>
 
 ## Technologies :fire:
 - C#;
@@ -24,6 +24,8 @@
 - Html e CSS;
 - Php - Básico;
 - Java - Básico;
+- API REST;
+- SQL server;
 </br>
 </br>
 
