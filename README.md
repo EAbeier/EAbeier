@@ -17,11 +17,13 @@
 <p>Programador persdeguidor de bugs e de cachoeiras</p>
 
 ## Technologies :fire:
-- Aprendendo C#;
+- C#;
+- .NET;
+- EXT js;
+- Aprendendo dart e Flutter;
 - Html e CSS;
-- Aprendendo EXTjs;
-- Php - Básico
-- Java - Básico
+- Php - Básico;
+- Java - Básico;
 </br>
 </br>
 
