@@ -1,6 +1,3 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=EAbeier&repo=EAbeier&countColorcountColor)
-# <p align="center"><a href="https://www.linkedin.com/in/emerson-alves-beier">Émerson Alves Beier</a>:computer:</p>
-
 <h3 align="center">My social Medias</h3>
 
 <p align="center">
