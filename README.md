@@ -25,7 +25,6 @@
 ![Dart](https://img.shields.io/badge/dart-483D8B?style=for-the-badge&logo=Dart&logoColor)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/php-836FFF?style=for-the-badge&logo=php&logoColor=white)
 ![SQLSERVER](https://img.shields.io/badge/sql_server-8B0000?style=for-the-badge&logo=sql%20server&logoColor=white)
 ![APIREST](https://img.shields.io/badge/api_rest-7B68EE?style=for-the-badge&logo=rest&logoColor=white)
 
