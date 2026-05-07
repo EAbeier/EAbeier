@@ -3,11 +3,10 @@
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/emerson-alves-beier/" >
     <img alt="logo Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-                                                                                                                               
+  </a>                                                                          
    <a href="https://www.instagram.com/emersonabe/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-     </p>
+  </a>
 <div align="center">
  <h1> 
    <a href="https://fontmeme.com/fonts/libre-franklin-font/">
